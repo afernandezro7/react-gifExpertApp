@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba sobre GifGridItem debe mostrar el componente correctamente  1`] = `
+<div
+  className="card animate__animated animate__rollIn animate__delay-2s"
+>
+  <img
+    alt="un titulo"
+    src="https://unaurl.com"
+  />
+  <p>
+    un titulo
+  </p>
+</div>
+`;
